@@ -44,7 +44,7 @@ The styles are defined in `main.css`, using a combination of:
 ## Acknowledgments
 
 - Challenge by [Frontend Mentor](https://www.frontendmentor.io).
-- Coded by [Your Name Here].
+- Coded by [Zyad Ayman].
 
 ## License
 
