@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a simple HTML and CSS implementation of a results summary component inspired by the Frontend Mentor challenge. The component displays a user's test scores in a visually appealing format, highlighting individual categories and providing a summary of their overall performance [Results Summary Component]([https://www.frontendmentor(https://zyadelshopaky.github.io/summary-component/)).
+This project is a simple HTML and CSS implementation of a results summary component inspired by the Frontend Mentor challenge. The component displays a user's test scores in a visually appealing format, highlighting individual categories and providing a summary of their overall performance [Results Summary Component](https://www.frontendmentor(https://zyadelshopaky.github.io/summary-component/).
 
 ## Features
 
